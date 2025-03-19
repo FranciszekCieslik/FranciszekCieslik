@@ -1,8 +1,20 @@
 <div align="center">
 
-| Streak | Top Languages | LeetCode |
-|--------|--------------|---------|
-| <img src="https://streak-stats.demolab.com?user=FranciszekCieslik&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="175" alt="streak graph" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FranciszekCieslik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="175" alt="languages graph" /> | <img height="175" src="https://leetcode-badge-showcase.vercel.app/api?username=user1851QS&theme=dracula&border=border&animated=true" /> |
+<table style="width:100%">
+  <tr>
+    <td>
+<img src="https://streak-stats.demolab.com?user=FranciszekCieslik&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="175" alt="streak graph" /> 
+    </td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FranciszekCieslik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="175" alt="languages graph" />
+</td>
+    <td>
+<img height="175" src="https://leetcode-badge-showcase.vercel.app/api?username=user1851QS&theme=dracula&border=border&animated=true" /> 
+    </td>
+  </tr>
+</table>
+
+
 
 </div>
 <div align="center">
@@ -45,8 +57,14 @@
 
 <div align="center">
 
-| Recently Played | Fun GIF |
-|-----------------|---------|
-| <img src="https://spotify-recently-played-readme.vercel.app/api?user=215nlwdc2iebwyy7vanhodkeq&height=175"/> | <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFqdmcxM3RvbHRzYTJ2MnZ1bDI3aTRzM25rd3cyNjRuaDM4cDFvaCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/687qS11pXwjCM/giphy.gif" height="300" /> |
+<table style="width:100%">
+  <tr><td>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=215nlwdc2iebwyy7vanhodkeq&height=175"/>
+  </td>
+    <td>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFqdmcxM3RvbHRzYTJ2MnZ1bDI3aTRzM25rd3cyNjRuaDM4cDFvaCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/687qS11pXwjCM/giphy.gif" height="300" />
+    </td>
+  </tr>
+</table>
 
 </div>
