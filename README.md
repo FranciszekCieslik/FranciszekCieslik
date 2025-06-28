@@ -55,10 +55,11 @@
 
 ---
 
-<div align="center" class="snake-container">
-  <img src="https://raw.githubusercontent.com/FranciszekCieslik/FranciszekCieslik/output/snake-light.svg" alt="Snake animation" class="snake snake-light" />
-  <img src="https://raw.githubusercontent.com/FranciszekCieslik/FranciszekCieslik/output/snake-dark.svg" alt="Snake animation" class="snake snake-dark" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranciszekCieslik/FranciszekCieslik/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranciszekCieslik/FranciszekCieslik/output/snake-light.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/FranciszekCieslik/FranciszekCieslik/output/snake-light.svg" />
+</picture>
 
 ---
 
