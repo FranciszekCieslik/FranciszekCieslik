@@ -2,24 +2,51 @@
 <br>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Frank+Cieslik!;" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Frank+Cieslik!;&color=ffffff"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Frank+Cieslik!;&color=000000"
+    />
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Frank+Cieslik!;&color=000000"
+      alt="Hi There! I'm Frank Cieslik!"
+    />
+  </picture>
 </h1>
+
 
 <div align="center">
 
 <table style="width:100%">
   <tr>
     <td>
-<img src="https://streak-stats.demolab.com?user=FranciszekCieslik&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="175" alt="streak graph" /> 
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=FranciszekCieslik&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=FranciszekCieslik&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" />
+        <img height="175" alt="streak graph" src="https://streak-stats.demolab.com?user=FranciszekCieslik&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" />
+      </picture>
     </td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FranciszekCieslik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="175" alt="languages graph" />
-</td>
     <td>
-<img height="175" src="https://leetcode-badge-showcase.vercel.app/api?username=user1851QS&theme=dracula&border=border&animated=true" /> 
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=FranciszekCieslik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=FranciszekCieslik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false" />
+        <img height="175" alt="languages graph" src="https://github-readme-stats.vercel.app/api/top-langs?username=FranciszekCieslik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=user1851QS&theme=dracula&border=border&animated=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://leetcode-badge-showcase.vercel.app/api?username=user1851QS&theme=light&border=border&animated=true" />
+        <img height="175" alt="leetcode badge" src="https://leetcode-badge-showcase.vercel.app/api?username=user1851QS&theme=light&border=border&animated=true" />
+      </picture>
     </td>
   </tr>
 </table>
+
 
 
 
