@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FranciszekCieslik.FranciszekCieslik" />
+<img align="right" src="https://komarev.com/ghpvc/?username=FranciszekCieslik&color=blue" />
 <br>
 
 <h1 align="center">
@@ -102,4 +102,5 @@
   </tr>
 </table>
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
