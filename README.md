@@ -5,7 +5,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Frank+Cieslik!;&color=ffffff"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😊;+I'm+Frank+Cieslik!;&color=ffffff"
     />
     <source
       media="(prefers-color-scheme: light)"
@@ -18,23 +18,31 @@
   </picture>
 </h1>
 
+<div align="center">
+<tr>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://github.com/user-attachments/assets/1259f39e-ba1e-48cb-9af3-bc669871307d" height="200" />
+</tr>
+</div>
+
+---
 
 <div align="center">
 
 <table style="width:100%">
   <tr>
-    <td>
+<!--     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=FranciszekCieslik&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" />
         <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=FranciszekCieslik&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" />
         <img height="175" alt="streak graph" src="https://streak-stats.demolab.com?user=FranciszekCieslik&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" />
       </picture>
-    </td>
+    </td> -->
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=FranciszekCieslik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=FranciszekCieslik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false" />
-        <img height="175" alt="languages graph" src="https://github-readme-stats.vercel.app/api/top-langs?username=FranciszekCieslik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=FranciszekCieslik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&hide=Makefile" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=FranciszekCieslik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false&hide=Makefile" />
+        <img height="175" alt="languages graph" src="https://github-readme-stats.vercel.app/api/top-langs?username=FranciszekCieslik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false&hide=Makefile" />
       </picture>
     </td>
     <td>
@@ -90,17 +98,14 @@
 
 ---
 
-<div align="center">
 
-<table style="width:100%">
+<!-- <table style="width:100%">
   <tr><td>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=215nlwdc2iebwyy7vanhodkeq&height=175"/>
   </td>
     <td>
+
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFqdmcxM3RvbHRzYTJ2MnZ1bDI3aTRzM25rd3cyNjRuaDM4cDFvaCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/687qS11pXwjCM/giphy.gif" height="300" />
     </td>
   </tr>
-</table>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+</table> -->
