@@ -29,6 +29,9 @@
 </tr>
 </div>
 
+#### <ins>About me</ins>
+*I'm a software engineer with a passion for high-performance computing, low-level languages and electronics. I enjoy spending my free time with family and friends. I'm a self-professed series addict, and I love hiking, going to the gym and playing music.*
+
 ---
 
 <div align="center">
@@ -102,14 +105,26 @@
 
 ---
 
-
-<!-- <table style="width:100%">
-  <tr><td>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=215nlwdc2iebwyy7vanhodkeq&height=175"/>
-  </td>
-    <td>
-
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFqdmcxM3RvbHRzYTJ2MnZ1bDI3aTRzM25rd3cyNjRuaDM4cDFvaCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/687qS11pXwjCM/giphy.gif" height="300" />
+  <!-- <table style="width:100%">
+    <tr><td>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=215nlwdc2iebwyy7vanhodkeq&height=175"/>
     </td>
-  </tr>
-</table> -->
+      <td>
+  
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFqdmcxM3RvbHRzYTJ2MnZ1bDI3aTRzM25rd3cyNjRuaDM4cDFvaCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/687qS11pXwjCM/giphy.gif" height="300" />
+      </td>
+    </tr>
+  </table> -->
+</div>
+
+#### <ins>Education and experience</ins>
+
+<details>
+  <summary>2022-2026</summary>
+  <p>Applied Computer Science and Measurement Systems UWr</p>
+</details>
+  |
+<details>
+  <summary>2022-2026</summary>
+  <p>Applied Computer Science and Measurement Systems UWr</p>
+</details>
