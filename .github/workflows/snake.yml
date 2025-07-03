@@ -31,56 +31,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake-light.svg?palette=github-light
 
-      - name: Create index.html with dynamic theme support
-        run: |
-          cat > dist/index.html << 'EOF'
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Snake Animation</title>
-  <style>
-    .snake {
-      display: none;
-      max-width: 100%;
-    }
-
-    @media (prefers-color-scheme: light) {
-      .snake-light {
-        display: block;
-      }
-    }
-
-    @media (prefers-color-scheme: dark) {
-      .snake-dark {
-        display: block;
-      }
-    }
-
-    body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-      background: white;
-    }
-
-    @media (prefers-color-scheme: dark) {
-      body {
-        background: #0d1117;
-      }
-    }
-  </style>
-</head>
-<body>
-  <img src="snake-light.svg" class="snake snake-light" alt="Snake animation (light)" />
-  <img src="snake-dark.svg" class="snake snake-dark" alt="Snake animation (dark)" />
-</body>
-</html>
-EOF
-
       - name: Push both SVGs and index.html to GitHub Pages branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
