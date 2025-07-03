@@ -9,10 +9,10 @@
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Frank+Cieslik!;&color=000000"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😊;+I'm+Frank+Cieslik!;&color=000000"
     />
     <img
-      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Frank+Cieslik!;&color=000000"
+      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😊;+I'm+Frank+Cieslik!;&color=000000"
       alt="Hi There! I'm Frank Cieslik!"
     />
   </picture>
@@ -20,7 +20,11 @@
 
 <div align="center">
 <tr>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <picture>
+    <source  media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <source  media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  </picture>
 <img src="https://github.com/user-attachments/assets/1259f39e-ba1e-48cb-9af3-bc669871307d" height="200" />
 </tr>
 </div>
