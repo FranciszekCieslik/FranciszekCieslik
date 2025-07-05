@@ -25,7 +25,7 @@
     <source  media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
   </picture>
-<img src="https://github.com/user-attachments/assets/1259f39e-ba1e-48cb-9af3-bc669871307d" height="200" />
+  <img src="https://github.com/user-attachments/assets/1259f39e-ba1e-48cb-9af3-bc669871307d" style="height: 200px; vertical-align: middle;" alt="C++" />
 </tr>
 </div>
 
@@ -62,9 +62,6 @@
   </tr>
 </table>
 
-
-
-
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/franciszek-c-5694b8281/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
@@ -77,31 +74,37 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="CMake" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="Qt" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="OpenGL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-<img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
-<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height: 40px; vertical-align: middle;" alt="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" style="height: 40px; vertical-align: middle;" alt="CMake" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" style="height: 40px; vertical-align: middle;" alt="Qt" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" style="height: 40px; vertical-align: middle;" alt="OpenGL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="height: 40px; vertical-align: middle;" alt="Arduino" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 40px; vertical-align: middle;" alt="Python" />
+<img src="https://skillicons.dev/icons?i=linux" style="height: 40px; vertical-align: middle;" alt="Linux" />
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" style="height: 40px; vertical-align: middle;" alt="Bash" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height: 40px; vertical-align: middle;" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="height: 40px; vertical-align: middle;" alt="Android Studio" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 40px; vertical-align: middle;" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="height: 40px; vertical-align: middle;" alt="Kotlin" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px; vertical-align: middle;" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="height: 40px; vertical-align: middle;" alt="Firebase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 40px; vertical-align: middle;" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="height: 40px; vertical-align: middle;" alt="MATLAB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 40px; vertical-align: middle;" alt="MySQL" />
+
+</div>
 
 ---
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FranciszekCieslik/FranciszekCieslik/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FranciszekCieslik/FranciszekCieslik/output/snake-light.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/FranciszekCieslik/FranciszekCieslik/output/snake-light.svg" />
 </picture>
+
+</div>
 
 ---
 
@@ -117,14 +120,20 @@
   </table> -->
 </div>
 
-#### <ins>Education and experience</ins>
+<h3 align="left"><ins>📚 Education & 💼 Experience</ins></h3>
 
+<div align="left">
+
+<!-- Step 1 -->
 <details>
-  <summary>2022-2026</summary>
-  <p>Applied Computer Science and Measurement Systems UWr</p>
+  <summary><strong>🎓 2022–2026 — Applied Computer Science and Measurement Systems, <a href="https://www.linkedin.com/school/uniwroc/posts/?feedView=all">UWr</a></strong></summary>
+  <p>Focus on embedded systems, signal processing, and applied programming in C++ and Python.</p>
 </details>
-  |
+
+<!-- Step 2 -->
 <details>
-  <summary>2022-2026</summary>
-  <p>Applied Computer Science and Measurement Systems UWr</p>
+  <summary><strong>💼 Internship at <a href = "https://www.linkedin.com/company/terraeye/posts/?feedView=all">TerraEye</a> — Junior Python Developer (3 months)</strong></summary>
+  <p>Worked with geospatial data using <code>rasterio</code>, <code>numpy</code>, <code>numba</code>, and deployed solutions to Azure Cloud.</p>
 </details>
+
+</div>
