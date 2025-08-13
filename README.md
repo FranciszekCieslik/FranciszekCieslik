@@ -25,7 +25,7 @@
     <source  media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
   </picture>
-  <img src="https://github.com/user-attachments/assets/1259f39e-ba1e-48cb-9af3-bc669871307d" style="height: 200px; vertical-align: middle;" alt="C++" />
+<!--   <img src="https://github.com/user-attachments/assets/1259f39e-ba1e-48cb-9af3-bc669871307d" style="height: 200px; vertical-align: middle;" alt="C++" /> -->
 </tr>
 </div>
 
