@@ -5,14 +5,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😊;+I'm+Frank+Cieslik!;&color=ffffff"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😊;+I'm+Franek+Cieslik!;&color=ffffff"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😊;+I'm+Frank+Cieslik!;&color=000000"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😊;+I'm+Franek+Cieslik!;&color=000000"
     />
     <img
-      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😊;+I'm+Frank+Cieslik!;&color=000000"
+      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😊;+I'm+Franek+Cieslik!;&color=000000"
       alt="Hi There! I'm Frank Cieslik!"
     />
   </picture>
